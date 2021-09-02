@@ -8,12 +8,7 @@ pip install -q requirements.txt
 ```
 
 # Demo
-
-Step 1 : Prepare the Resumes and JDs. You can get the JDs [here](https://drive.google.com/drive/folders/12YDeelF66Qg6Im7aRHNq6C-ef1oGiZY5?usp=sharing). Store JDs with path "./data/preprocessed_txt_JD/" 
-
-Step 2 : Download the model from [link](https://drive.google.com/drive/folders/1pbTHnXARHGSiMDWbSwrYkDyhByOuVBM7?usp=sharing). Store it with path "./data/model/"
-
-Step 3 : Run demo with Streamlit
+Run demo with Streamlit
 
 ```shell 
 streamlit run test.py

@@ -2,7 +2,7 @@ meta.bin
 bert-base-uncased.bin
 data
 BERT/BERT_step_2_(model)/pytorch_model.bin
-/image/
+
 Preprocessing/Preprocess_Kaggle_Data.ipynb
 Entity_extraction_model/__pycache__/
 .idea/
