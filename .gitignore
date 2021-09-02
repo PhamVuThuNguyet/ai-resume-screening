@@ -1,0 +1,10 @@
+meta.bin
+bert-base-uncased.bin
+data
+/image/
+Preprocessing/Preprocess_Kaggle_Data.ipynb
+Entity_extraction_model/__pycache__/
+.idea/
+venv
+__pycache__
+CV_english_onl

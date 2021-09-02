@@ -1,0 +1,11 @@
+PDF_PATH = "./data/pdf/"
+TXT_PATH = "./data/txt/"
+PREPROCESSED_PATH = "./data/preprocessed_txt/"
+PREPROCESSED_JD_PATH = "./data/preprocessed_txt_JD/"
+SBERT_MODEL_PATH = "./BERT/BERT_step_2_(model)/"
+DOC2VEC_MODEL_PATH = "./Doc2Vec/Doc2Vec/model/"
+UPLOADED_FILE_PATH = "./data/uploaded_file"
+TCN_MODEL_PATH = "./Doc2Vec/Classification/model/model_best.h5"
+MAX_LENGTH_TCN_MODEL = 14
+TCN_PREPROCESSED_JD_PATH = "./Doc2Vec/data/new_preprocessed_txt_JD/"
+TOKENIZER_PATH = "./Doc2Vec/Classification/model/tokenizer.pickle"
