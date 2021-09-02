@@ -16,7 +16,7 @@ streamlit run test.py
 
 The demo app will be opened at http://localhost:8501/
 
-Step 4 (Optional): FastAPI 
+(Optional): FastAPI 
 
 ```shell
 python app.py
